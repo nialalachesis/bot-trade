@@ -1,5 +1,6 @@
 let ex = 0;
 let butt = document.querySelector("#butt");
+import Runtime 
 
 let calc = function () {
   Runtime.getRuntime().exec("bot#1.py");
